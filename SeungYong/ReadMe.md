@@ -1,33 +1,26 @@
-### Starter (개인)
+**Starter + NoteBook**
 
-- [ ]  [1주] Intro to ML
-- [ ]  [2주] Intermediate ML
-- [ ]  [3주] Data Visualization
-- [ ]  [4주] Data Cleaning
-- [ ]  [5주] Feature Engineering
-- [ ]  [6주] Intro to DL
-- [ ]  [7주] CV
-- [ ]  [8주] NLP
-- [ ]  [9주] ML Explainability
-- [ ]  [10주] 나만의 notebook 작성
+- [x]  [2주] Intro to ML (3h)
+- [x]  [2주] Intermediate ML (4h)
+- [ ]  [2주] [[GUIDE, KOR, DG] 데이터 분석 어떻게 시작해야 하나요?](https://www.kaggle.com/daehungwak/guide-kor-dg) / [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 
----
-### Closed Competition
+- [ ]  [3주] Data Visualization (4h)
+- [ ]  [3주] Data Cleaning (4h)
+- [ ]  [3주] [Start Here: A Gentle Introduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction) (★)
 
-IEEE-CIS Fraud Detection
+- [ ]  [4주] Feature Engineering (4h)
+- [ ]  [4주] Intro to DL (4h)
+- [ ]  [4주] [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough) (★)
 
-- [ ]  [1주] EDA (Competition 이해 및 insight 얻기)
-- [ ]  [2주] Baseline 모델 (framework 고려) 리뷰 및 학습
-- [ ]  [3주] 최고 성능 모델 (ensemble 등) 리뷰 및 적용
++ [EDA and models](https://www.kaggle.com/artgor/eda-and-models)...?
 
-APTOS 2019 Blindness Detection
+- [ ]  [5주] CV (4h)
+- [ ]  [5주] NLP (4h)
+- [ ]  [5주] [Simple Exploration Notebook - Zillow Prize](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize) (★)
 
-- [ ]  [4주] EDA (Competition 이해 및 insight 얻기)
-- [ ]  [5주] Baseline 모델 (framework 고려) 리뷰 및 학습
-- [ ]  [6주] 최고 성능 모델 (ensemble 등) 리뷰 및 적용
+- [ ]  [6주] ML Explainability (4h)
+- [ ]  [6주] Geospatial Analysis (4h) → 개인적으로 추가했습니다.
+- [ ]  [6주] [Data Preparation & Exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
+- [ ]  [6주] 나만의 notebook 작성
 
-Natural Language Processing with Disaster Tweets
-
-- [ ]  [7주] EDA (Competition 이해 및 insight 얻기)
-- [ ]  [8주] Baseline 모델 (framework 고려) 리뷰 및 학습
-- [ ]  [9주] 최고 성능 모델 (ensemble 등) 리뷰 및 적용
++ [Credit Fraud || Dealing with Imbalanced Datasets](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)?
